@@ -1,0 +1,14 @@
+.wrapperField{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-image: url(../../assets/background.jpg);
+    border-radius: 6px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
